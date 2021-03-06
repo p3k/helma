@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Server-side JavaScript is so 1999
 
-You can use the [editor on GitHub](https://github.com/antville/helma/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+It was the year when one of the earlier collaborative weblogs (yes, that’s what we called blogs at the time) called [Helma turned into a _corporate website_](http://web.archive.org/web/20010502043303/http://classic.helma.at/comment.asp?helmatic=hannes&item=7696)…
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Thus, the life of Helma, the _web application framework_ begun. And with it, a serious effort of applying server-side JavaScript.
 
-### Markdown
+**JavaScript on the server.  
+Long before NodeJS.  
+Way long.**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Helma would not have been possible without the creative minds at the Austrian public broadcaster ORF, once called ORF Online, ORF.at nowadays.
 
-```markdown
-Syntax highlighted code block
+They commissioned the precursor of Helma, a publishing system based on Marimba, and they used and further developed it for their in-house content management.
 
-# Header 1
-## Header 2
-### Header 3
+This early code blossomed into Helma and the content management organically grew into it, together with a bunch of sidelined applications, comprehending forum apps, podcast services and even SSL certificate management.
 
-- Bulleted
-- List
+And all by writing JavaScript on the server.  
+Long before NodeJS.  
+Way long.
 
-1. Numbered
-2. List
+From ORF.at’s solid trunk a lot of colorful branches started to sprout, some of which still are around:
 
-**Bold** and _Italic_ and `Code` text
+* [Antville](https://antville.org), the non-profit weblog hosting system, and its (at the time) corporate sibling [Twoday](https://twoday.net)
+* [Parq](http://www.parq.at) and [Coplaner](http://coplaner.net), two groupware platforms for “joint building ventures” (_Baugruppen_ in German)
 
-[Link](url) and ![Image](src)
-```
+All written in JavaScript on the server.  
+Long before NodeJS.  
+Way long.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The people using Helma thought it was very convenient to write code in the same programming language for both, the client _and_ the server. And they were not wrong: along came NodeJS and somehow suddenly JavaScript was everywhere.
 
-### Jekyll Themes
+Unfortunately, Helma was not. And so she became part of the JavaScript mythology. A blink of an eye in the history of the web. Almost forgotten. Blessed forever.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/antville/helma/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+A little server-side JavaScript framework called Helma.  
+Long before NodeJS.  
+Way long ago.
