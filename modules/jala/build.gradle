@@ -1,6 +1,6 @@
 dependencies {
 	runtime 'dom4j:dom4j:1.6.1'
-	runtime 'jaxen:jaxen:1.1-beta-8'
+	runtime 'jaxen:jaxen:1.2.0-atlassian-2'
 	runtime 'net.sf.javamusictag:jid3lib:0.5.4'
 
 	// FIXME: Did not find these two or appropriate replacements for them
