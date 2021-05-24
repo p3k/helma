@@ -57,7 +57,7 @@ dependencies {
   implementation 'javax.servlet:javax.servlet-api:4.0.1'
   implementation 'org.ccil.cowan.tagsoup:tagsoup:1.2.1'
   implementation 'org.eclipse.jetty:jetty-servlet:9.4.27.v20200227'
-  implementation 'org.eclipse.jetty:jetty-xml:9.4.27.v20200227'
+  implementation 'org.eclipse.jetty:jetty-xml:11.0.3'
   implementation 'org.mozilla:rhino:1.7.13'
   implementation 'xerces:xercesImpl:2.12.1'
   implementation 'xmlrpc:xmlrpc:2.0.1'
